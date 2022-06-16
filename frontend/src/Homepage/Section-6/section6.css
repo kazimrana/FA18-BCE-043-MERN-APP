@@ -1,0 +1,55 @@
+#sec6-row{
+    height: 450px;
+}
+#sec6-p1{
+    font-family: 'Montserrat';
+    color: #ea2425;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 100px;
+    text-align: center;
+}
+
+#sec6-p2{
+    font-family: 'Montserrat';
+    color: #ea2425;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+#sec6-p3{
+    font-family: 'Montserrat';
+    color: white;
+    padding: 10px 15px 10px 15px;
+    margin-left: 680px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    background-color: #ea2425;
+    border-radius: 5px;
+    border: 2px solid #ea2425;
+}
+#sec6-p3:hover{
+    background-color: white;
+    color: #ea2425;
+}
+#sec6-i2{
+    font-size: 40px;
+    color: black;
+    padding-left: 25px;
+}
+#sec6-i3{
+    font-size: 40px;
+    color: #1DA1F2;
+    padding-left: 25px;
+}
+#sec6-i{
+    font-size: 40px;
+    color: #0B5ED7;
+}
+#sec6-icons{
+    text-align: center;
+}

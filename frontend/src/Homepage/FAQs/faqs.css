@@ -1,0 +1,26 @@
+#faq-main{
+    background-color: #ea2425;
+    padding-left: 361px;
+    padding-right: 361px;
+    padding-bottom: 50px;
+}
+#faqs-p1{
+    font-family: 'Montserrat';
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#faqs-p2{
+    font-family: 'Montserrat';
+
+}
+
+#faqs-b1{
+    font-family: 'Montserrat';
+    color: #ea2425;
+    font-weight: 500;
+}
