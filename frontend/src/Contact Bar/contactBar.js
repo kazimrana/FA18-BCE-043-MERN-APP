@@ -11,8 +11,7 @@ function ContactBar() {
           </div>
           <div className="col-4">
             <Link to="/CONTACT">
-              <button id="cb-b1"> CONTACT NOW </button>
-              <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>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
               <button id="cb-b1"> CONTACT NOW </button>
               <button id="cb-b1"> CONTACT NOW </button>
             </Link>
