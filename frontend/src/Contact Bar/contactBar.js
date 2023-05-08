@@ -14,6 +14,8 @@ function ContactBar() {
               <button id="cb-b1"> CONTACT NOW </button>
               <button id="cb-b1"> CONTACT NOW </button>
               <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
             </Link>
           </div>
         </div>
