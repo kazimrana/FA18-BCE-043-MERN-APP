@@ -1,0 +1,85 @@
+#prhead {
+    margin-top: 114px;
+    margin-bottom: 120px;
+}
+
+#pr-col1 {
+    margin-left: 240px;
+    margin-top: 50px;
+}
+#pr-p1 {
+    color: #1e73be;
+    font-family: 'Montserrat';
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: 600;
+    margin-right: 240px;
+}
+
+#pr-p2 {
+    color: black;
+    font-family: 'Montserrat';
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#pr-p3 {
+
+    font-family: 'Montserrat';
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    margin-right: 240px;
+    margin-top: 70px;
+}
+
+#pr-div1 {
+    border-left: solid 6px black;
+    padding-left: 34px;
+}
+
+#pr-span1 {
+    font-family: 'Montserrat';
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    margin-right: 10px;
+
+}
+
+#pr-p4 {
+    font-family: 'Montserrat';
+    color: black;
+    font-size: 15px;
+    margin-right: 240px;
+    text-align: justify;
+
+}
+
+#pr-p5{
+    font-family: 'Montserrat';
+    color: #EA2425;
+    font-size: 20px;
+    margin-top: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+#pr-bar{
+    margin-right: 240px;
+}
+#pr-button{
+    margin-top: 50px;
+    border: 2px solid #EA2425;
+    background-color: #EA2425;
+    color: white;
+    font-family: 'Montserrat';
+    padding: 15px 25px 15px 25px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+#pr-button:hover{
+    background-color: white;
+    color: #EA2425;
+    border: 2px solid #EA2425;
+}

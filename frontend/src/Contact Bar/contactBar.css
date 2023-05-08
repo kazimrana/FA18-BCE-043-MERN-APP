@@ -1,0 +1,25 @@
+#cb-row{
+    height: 150px;
+    background-color: #ea2425;
+    margin-bottom: 130px;
+}
+
+#cb-p1{
+    margin-top: 55px;
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 50px;
+}
+
+#cb-b1{
+    border: none;
+    margin-top: 45px;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    color: #ea2425;
+}

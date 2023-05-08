@@ -1,0 +1,56 @@
+#r-p1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: #ea2425;
+    margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#li-1 {
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-right: 100px;
+    font-size: 25px;
+    font-weight: 500;
+    color: #ea2425;
+    font-family: 'Montserrat';
+
+}
+
+#li-2 {
+    font-size: 20px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+#li-3 {
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    font-weight: 500;
+    color: #ea2425;
+    font-family: 'Montserrat';
+
+}
+
+#r-p2 {
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 70px;
+}
+
+#r-s1 {
+    color: #ea2425;
+    font-weight: 700;
+    font-size: 20px;
+}

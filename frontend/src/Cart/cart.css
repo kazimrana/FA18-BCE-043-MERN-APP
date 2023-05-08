@@ -1,0 +1,156 @@
+#cart-row-1 {
+    margin-top: 60px;
+    margin-bottom: 70px;
+    margin-left: 150px;
+    margin-right: 100px;
+    border: 2px solid #EA2425;
+    padding: 20px 30px 20px 90px;
+}
+
+#cart-col2 {
+    border-left: 4px solid #EA2425;
+    margin-right: 40px;
+    padding-left: 40px;
+}
+
+#cart-p1 {
+    margin-top: 40px;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: 600;
+    font-family: 'Montserrat';
+}
+
+#cart-p2 {
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: justify;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+#cart-b1 {
+    border: none;
+    font-family: 'Montserrat';
+    background-color: #EA2425;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 50px 0px 0px 50px;
+}
+
+#cart-b3 {
+    border: none;
+    font-family: 'Montserrat';
+    background-color: #EA2425;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 00px 50px 50px 0px;
+}
+
+#cart-b2 {
+    margin-top: 20px;
+    border: 2px solid #EA2425;
+    font-family: 'Montserrat';
+    background-color: #EA2425;
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 85px;
+}
+
+#cart-b2:hover {
+    background-color: white;
+    color: #EA2425;
+}
+
+#cart-s1 {
+    font-family: 'Montserrat';
+    font-size: 25px;
+    font-weight: 600;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-top: 2px solid #EA2425;
+    border-bottom: 2px solid #EA2425;
+}
+
+#cart-p3 {
+
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    text-align: center;
+    color: white;
+
+
+}
+
+
+#cart-col-3 {
+    border: 2px solid #EA2425;
+    margin-left: 700px;
+    margin-right: 750px;
+    margin-bottom: 15px;
+    background-color: #EA2425;
+}
+
+
+#cart2-p1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 100px;
+
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+#cart2-b1 {
+    margin-top: 20px;
+    border: 2px solid #EA2425;
+    font-family: 'Montserrat';
+    background-color: #EA2425;
+    color: white;
+    padding: 15px 50px 15px 50px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 585px;
+    margin-bottom: 175px;
+}
+
+#cart2-b1:hover {
+    background-color: white;
+    color: #EA2425;
+}
+
+#cart-p4 {
+    text-align: center;
+    background-color: #EA2425;
+    font-size: 16px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    padding: 15px 22px 15px 22px;
+    margin-bottom: 60px;
+    margin-left: 700px;
+    margin-right: 750px;
+    border: 2px solid #EA2425;
+}
+
+#cart-p4:hover{
+    background-color: white;
+    border: 2px solid #EA2425;
+    color: #EA2425;
+}
