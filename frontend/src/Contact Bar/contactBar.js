@@ -12,6 +12,12 @@ function ContactBar() {
           <div className="col-4">
             <Link to="/CONTACT">
               <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
+              <button id="cb-b1"> CONTACT NOW </button>
             </Link>
           </div>
         </div>
